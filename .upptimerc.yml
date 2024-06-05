@@ -18,7 +18,23 @@ sites:
   - name: Seednode-Singapore
     url: sg.tuske.network
     port: 20240
-    check: "tcp-ping"    
+    check: "tcp-ping"  
+  - name: Seednode-Australia
+    url: au.tuske.network
+    port: 20240
+    check: "tcp-ping"  
+  - name: Seednode-India
+    url: in.tuske.network
+    port: 20240
+    check: "tcp-ping"  
+  - name: PublicNode-USA
+    url: node-us.tuske.network
+    port: 20240
+    check: "tcp-ping"  
+  - name: PublicNode-Japan
+    url: node-jp.tuske.network
+    port: 20240
+    check: "tcp-ping"      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
