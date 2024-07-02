@@ -160,9 +160,9 @@
     "url": "node-jp.tuske.network",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-node-japan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -171,6 +171,8 @@
     "timeWeek": 132,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-02": 0
+    }
   }
 ]
